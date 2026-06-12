@@ -3,7 +3,7 @@
 Reduzir o risco de inadimplência, substituir análises manuais lentas por aprovações automatizadas, instantâneas e escaláveis,
 permitir oferecer juros menores e/ou juros adequados para bons pagadores ou de acordo com o perfil do cliente e identificar padrões sutis de comportamento que os modelos tradicionais dos bancos não conseguem enxergar, são alguns dos objetivos de vários segmentos de negócios, como e-commerce, fintechs, empresas de telecon, entre outros.
 
-Dessa forma, esse projeto tras um modelo de machine learning como ***solução de negócio***, capaz de realizar um controlo rigoroso do risco de crédito e classificar os novos clientes com uma classe de score de crédito: baixa, média ou alta, atravéz de dados demográficos e socioeconômicos do indivíduo, mitigando riscos, automatizando decisões, auxiliando o time com personalização de campanhas e passando a ser um motor de crescimento sustentável e vantagem competitiva.
+Dessa forma, esse projeto trás um modelo de machine learning como ***solução de negócio***, capaz de realizar um controle rigoroso do risco de crédito e classificar os novos clientes com uma classe de score de crédito: baixa, média ou alta, atravéz de dados demográficos e socioeconômicos do indivíduo, mitigando riscos, automatizando decisões, auxiliando o time com personalização de campanhas e passando a ser um motor de crescimento sustentável e vantagem competitiva.
 
 ---
 ## 🛠️ Arquitetura Modular do Projeto
